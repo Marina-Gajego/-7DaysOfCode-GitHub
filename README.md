@@ -40,5 +40,6 @@ git push -u origin main
 GitHub 7/7: 👩🏽‍💻 Fazendo o deploy no GitHub Pages
 ![image](https://user-images.githubusercontent.com/83456621/226774491-4e85cb7c-cf07-4a8e-8b36-7c92e70a559a.png)
 ![image](https://user-images.githubusercontent.com/83456621/226774543-cf103681-2c4b-4883-a956-41abdabb632c.png)
+
 Salvar e para acessar basta digitar o nome do usuario . github.io / nome do repositório
 https://marina-gajego.github.io/-7DaysOfCode-GitHub/
