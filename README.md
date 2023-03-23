@@ -7,13 +7,13 @@ O repositório foi criado manualmente pelo proprio site do git e add o readme
 GitHub 2/7: 👩🏽‍💻 Adicionando um projeto ao repositório
 Foi realizado uma pagina fake simples apenas para conter itens para enviar para o repositório, para isso foi iniciado o git no pc e conectado no repositorio criado usando os seguintes comandos para realizar a configuração e o envio dos arquivos.
 
-git init
-git status
-git add .
-git commit -m "mensagem do commit"
-git branch -M main
-git remote add origin <link_para_o_seu_repositorio>
-git push -u origin main
+- git init
+- git status
+- git add .
+- git commit -m "mensagem do commit"
+- git branch -M main
+- git remote add origin <link_para_o_seu_repositorio>
+- git push -u origin main
 
 GitHub 3/7: 👩🏽‍💻 Clonando um repositório
 Criar uma pasta no pc e digitar o seguinte comando
@@ -31,13 +31,13 @@ Na pasta do repositório abrir o terminal e digitar o seguinte comando
 git revert HEAD~1
 
 GitHub 6/7: 👩🏽‍💻 Resolvendo um conflito
-git checkout <nome do branch com conflito>
-git pull origin main
-abra o arquivo com conflito e os resolva
-salve o arquivo
-git add <nome do arquivo alterado>
-git commit
-git push -u origin main
+- git checkout <nome do branch com conflito>
+- git pull origin main
+- abra o arquivo com conflito e os resolva
+- salve o arquivo
+- git add <nome do arquivo alterado>
+- git commit
+- git push -u origin main
 
 GitHub 7/7: 👩🏽‍💻 Fazendo o deploy no GitHub Pages
 ![image](https://user-images.githubusercontent.com/83456621/226774491-4e85cb7c-cf07-4a8e-8b36-7c92e70a559a.png)
