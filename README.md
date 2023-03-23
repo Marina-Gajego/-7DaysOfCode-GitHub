@@ -21,7 +21,9 @@ git clone <link_para_o_seu_repositorio>
 
 GitHub 4/7: 👩🏽‍💻 Realizando um commit a partir do VSCode
 ![image](https://user-images.githubusercontent.com/83456621/226773359-c6706163-ec73-4ae6-8cd6-0401626895ed.png)
+
 Para realizar o push
+
 ![image](https://user-images.githubusercontent.com/83456621/226773448-ae46d0e7-9764-46aa-9ca3-90551549f914.png)
 
 GitHub 5/7: 👩🏽‍💻 Revertendo um commit
